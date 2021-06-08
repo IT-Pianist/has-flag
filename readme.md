@@ -5,7 +5,7 @@
 
 ## Install
 ```
-import hasFlag from "https://deno.land/x/has_flag@v1.0/mod.ts"
+import hasFlag from "https://deno.land/x/has_flag/mod.ts"
 ```
 
 ## Usage

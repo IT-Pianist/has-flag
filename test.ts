@@ -1,4 +1,4 @@
-import hasFlag from "https://raw.githubusercontent.com/IT-Pianist/has-flag/main/mod.ts"
+import hasFlag from "https://deno.land/x/has_flag@v1.0/mod.ts"
 
 console.log(hasFlag('unicorn'))
 //=> true

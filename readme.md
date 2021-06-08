@@ -33,6 +33,11 @@ console.log(hasFlag('rainbow'))
 //=> false
 ```
 
+
+```
+deno run --inspect-brk -A test.ts -f --unicorn --foo=bar -- --rainbow 
+```
+
 ## API
 
 
